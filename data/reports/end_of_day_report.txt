@@ -1,0 +1,11 @@
+========== MINIBANK END-OF-DAY REPORT ==========
+
+Total Deposits: Rs. 12500
+Total Withdrawals: Rs. 3000
+Net Change: Rs. 9500
+
+---------- LOG FILE DETAILS ----------
+File: transactions.log
+Size: 127 bytes
+Last modified: 2026-10-28T17:29:51.4605572Z
+
